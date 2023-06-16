@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%E2%80%99m+Nelson+David+Cortes+Mondragon.)](https://git.io/typing-svg)
-
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%E2%80%99m+Nelson+David+Cortes+Mondragon.)](https://git.io/typing-svg)
+ -->
 #### 🛠 Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgres,mysql,maven,docker,angular&perline=7)](https://github.com/nelsondmondragon)
 
